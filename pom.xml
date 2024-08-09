@@ -16,7 +16,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>anil.yazan</groupId>
+            <groupId>com.anilyazan</groupId>
             <artifactId>javacsv</artifactId>
             <version>1.0</version>
             <scope>system</scope>
