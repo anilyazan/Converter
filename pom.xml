@@ -15,7 +15,13 @@
     </properties>
 
     <dependencies>
-
+        <dependency>
+            <groupId>anil.yazan</groupId>
+            <artifactId>javacsv</artifactId>
+            <version>1.0</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/src/libs/javacsv.jar</systemPath>
+        </dependency>
         <dependency>
             <groupId>org.freemarker</groupId>
             <artifactId>freemarker</artifactId>
