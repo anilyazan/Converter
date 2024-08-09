@@ -29,7 +29,7 @@ public class Converter {
                 Map<String, Object> dataModel = new HashMap<>();
                 dataModel.put("users", users);
 
-                // Process template with data and write to output.xml
+                // Process template with data and write to .xml
                 template.process(dataModel, writer);
             }
 
